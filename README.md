@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devinkr/](https://github.com/devinkr/)
+- 👨‍💻 My portfolio is available at [https://devinraleigh.com](https://devinraleigh.com)
 
 - 📫 How to reach me **Devin@dkr.im**
 
