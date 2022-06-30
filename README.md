@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/devinkr/devinkr/main/header.jpg "Header")](https://devinraleigh.com/)
+[![Header](https://raw.githubusercontent.com/devinkr/devinkr/main/DevinRaleigh.jpg "Header")](https://devinraleigh.com/)
 
 <h1 align="center">Hi 👋, I'm Devin Raleigh</h1>
 <h3 align="left">A full stack web developer, scuba diver, rock climber, and adventure seeker with a background in management, education/instruction, and customer service.</h3>
