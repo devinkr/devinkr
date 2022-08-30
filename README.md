@@ -1,12 +1,10 @@
 [![Header](https://raw.githubusercontent.com/devinkr/devinkr/main/DevinRaleigh.jpg "Header")](https://devinraleigh.com/)
 
-<h3 align="left">I'm an outdoor loving, adventure seeking full stack developer based in Denver with a background in education/training, tourism, customer service, management, and linguistics.<h3>
+<h3 align="left">I'm an outdoor loving, adventure seeking full stack software engineer based in Denver with a background in education/training, tourism, customer service, management, and linguistics.<h3>
 
 <h3 align="left">I have lived and worked in 7 countries across the globe in a wide variety of industries and from this have developed excellent communication skills while working with diverse teams.</h3>
 
-- 🔭 I’m currently working on [Where2Eat](https://github.com/devinkr/where2eat)
-
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 My portfolio is available at [https://devinraleigh.com](https://devinraleigh.com)
 
