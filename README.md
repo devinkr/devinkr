@@ -38,7 +38,7 @@
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinkr&show_icons=true&locale=en&langs_count=3&theme=react&count_private=true" alt="devinkr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinkr&show_icons=true&locale=en&langs_count=10&theme=react&count_private=true" alt="devinkr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkr&show_icons=true&locale=en&theme=react&count_private=true" alt="devinkr" /></p>
 
