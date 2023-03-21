@@ -42,8 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkr&show_icons=true&locale=en&theme=react&count_private=true" alt="devinkr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinkr&theme=react" alt="devinkr" /></p>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devinkr.devinkr)
 ![Code Wars Badge](https://www.codewars.com/users/devinkr/badges/micro)
 
