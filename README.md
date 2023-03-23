@@ -34,7 +34,7 @@
 <p>
 <a href="https://devinraleigh.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-devinraleigh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/devinkr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Devinkr-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:devinkr@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-devinkr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:contact@devinraleigh.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-devinkr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
